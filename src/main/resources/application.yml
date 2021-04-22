@@ -1,0 +1,11 @@
+server:
+  port: 5734
+
+some:
+  container:
+    age:
+      min-age: 15
+      max-age: 65
+
+box:
+  something: Hello
